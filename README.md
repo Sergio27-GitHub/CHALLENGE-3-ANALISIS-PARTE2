@@ -73,3 +73,7 @@
 <p>-scikit-learn.</p>
 <p>-numpy.</p>
 <p>-pickle.</p>
+
+
+
+<p>Autor: Sergio Enrique Tarqui Huerta</p>
